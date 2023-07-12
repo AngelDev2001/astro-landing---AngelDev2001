@@ -1,0 +1,24 @@
+{
+    "projects": [
+        {
+            "title": "Farm Land 1",
+            "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eligendi deleniti libero a repudiandae saepe, optio sapiente rerum adipisci accusantium consequatur assumenda, fugiat magni minima laboriosam, veniam repellat sequi asperiores non. Rem libero culpa impedit sapiente nulla at obcaecati ullam nihil ratione corrupti hic explicabo magnam dignissimos, quia asperiores. Illum, ea debitis! Nobis culpa ratione ipsam error nihil sapiente doloribus minus itaque, molestias animi consequatur facilis, earum repudiandae ipsum enim architecto quae debitis assumenda hic quos ea voluptatibus rerum soluta sequi! Minus nemo reiciendis nisi sapiente ullam, odio consequuntur adipisci suscipit, autem illo odit sequi maxime voluptate, vero quaerat fugiat laboriosam!",
+            "image": "/images/fingerprint.svg"
+        },
+        {
+            "title": "Farm Land 2",
+            "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eligendi deleniti libero a repudiandae saepe, optio sapiente rerum adipisci accusantium consequatur assumenda, fugiat magni minima laboriosam, veniam repellat sequi asperiores non. Rem libero culpa impedit sapiente nulla at obcaecati ullam nihil ratione corrupti hic explicabo magnam dignissimos, quia asperiores. Illum, ea debitis! Nobis culpa ratione ipsam error nihil sapiente doloribus minus itaque, molestias animi consequatur facilis, earum repudiandae ipsum enim architecto quae debitis assumenda hic quos ea voluptatibus rerum soluta sequi! Minus nemo reiciendis nisi sapiente ullam, odio consequuntur adipisci suscipit, autem illo odit sequi maxime voluptate, vero quaerat fugiat laboriosam!",
+            "image": "/images/fingerprint.svg"
+        },
+        {
+            "title": "Farm Land 3",
+            "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eligendi deleniti libero a repudiandae saepe, optio sapiente rerum adipisci accusantium consequatur assumenda, fugiat magni minima laboriosam, veniam repellat sequi asperiores non. Rem libero culpa impedit sapiente nulla at obcaecati ullam nihil ratione corrupti hic explicabo magnam dignissimos, quia asperiores. Illum, ea debitis! Nobis culpa ratione ipsam error nihil sapiente doloribus minus itaque, molestias animi consequatur facilis, earum repudiandae ipsum enim architecto quae debitis assumenda hic quos ea voluptatibus rerum soluta sequi! Minus nemo reiciendis nisi sapiente ullam, odio consequuntur adipisci suscipit, autem illo odit sequi maxime voluptate, vero quaerat fugiat laboriosam!",
+            "image": "/images/fingerprint.svg"
+        },
+        {
+            "title": "Farm Land 4",
+            "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eligendi deleniti libero a repudiandae saepe, optio sapiente rerum adipisci accusantium consequatur assumenda, fugiat magni minima laboriosam, veniam repellat sequi asperiores non. Rem libero culpa impedit sapiente nulla at obcaecati ullam nihil ratione corrupti hic explicabo magnam dignissimos, quia asperiores. Illum, ea debitis! Nobis culpa ratione ipsam error nihil sapiente doloribus minus itaque, molestias animi consequatur facilis, earum repudiandae ipsum enim architecto quae debitis assumenda hic quos ea voluptatibus rerum soluta sequi! Minus nemo reiciendis nisi sapiente ullam, odio consequuntur adipisci suscipit, autem illo odit sequi maxime voluptate, vero quaerat fugiat laboriosam!",
+            "image": "/images/fingerprint.svg"
+        }
+    ]
+}
